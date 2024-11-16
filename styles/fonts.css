@@ -1,0 +1,30 @@
+@font-face {
+  font-family: "revicons";
+  src: url(./fonts/revicons.eot?5510888);
+  src: url("./fonts/revicons.eot?5510888#iefix")
+      format("embedded-opentype"),
+    url(./fonts/revicons.woff?5510888)
+      format("woff"),
+    url(./fonts/revicons.ttf?5510888)
+      format("truetype"),
+    url("./fonts/revicons.svg?5510888#revicons")
+      format("svg");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+  @font-face {
+    font-display: swap;
+    font-family: Brooklyn-Core;
+    src: url(./fonts/Brooklyn-Core.ttf?c262xj)
+        format("truetype"),
+      url(./fonts/Brooklyn-Core.woff?c262xj)
+        format("woff"),
+      url(./fonts/Brooklyn-Core.svg?c262xj#Brooklyn-Core)
+        format("svg");
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  /* Google Fonts (Poppins) */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');

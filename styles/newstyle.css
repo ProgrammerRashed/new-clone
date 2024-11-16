@@ -1,0 +1,3 @@
+.ut-mobile-menu a:not(.bklyn-btn)::before {
+    content: "•";
+}
