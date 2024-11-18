@@ -6,9 +6,8 @@
     url(./fonts/revicons.woff?5510888)
       format("woff"),
     url(./fonts/revicons.ttf?5510888)
-      format("truetype"),
-    url("./fonts/revicons.svg?5510888#revicons")
-      format("svg");
+      format("truetype");
+
   font-weight: 400;
   font-style: normal;
   font-display: swap;
